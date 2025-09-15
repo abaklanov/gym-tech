@@ -1,1 +1,12 @@
-{}
+{
+  "name": "gym-tech",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/abaklanov/gym-tech.git",
+  "author": "abaklanov <alexandr.baklanov@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
